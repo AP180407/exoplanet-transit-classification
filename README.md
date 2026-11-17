@@ -69,10 +69,33 @@ The noise-augmented CNN showed improved accuracy over the original CNN at severa
 ## Repository Structure
 
 The repository will contain notebooks, experiment results, figures, research documentation, and model files.
+exoplanet-transit-classification/
+│
+├── README.md
+├── requirements.txt
+│
+├── notebooks/
+│   ├── 01_Astrophysical_Foundations.ipynb
+│   ├── 02_Kepler_Data_Acquisition_and_EDA.ipynb
+│   └── 03_Kepler_Dataset_Construction.ipynb
+│
+├── results/
+│   ├── validation_noise_robustness_results.csv
+│   ├── final_test_results.csv
+│   ├── duration_error_results.csv
+│   ├── center_error_results.csv
+│   ├── combined_error_results.csv
+│   └── research_robustness_figures.png
+│
+├── reports/
+│   └── research_report.pdf
+│
+└── proposal/
+    └── research_proposal.pdf
 
 ## Author
 
-Aayushi Patel
+Ayushi Patel
 
 ## Disclaimer
 
