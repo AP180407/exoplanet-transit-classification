@@ -1,0 +1,19 @@
+Alpha,Model,Accuracy,ROC_AUC
+0.5,Original CNN,0.875,1.0
+0.5,Noise-Augmented CNN,1.0,1.0
+0.5,Logistic Regression,1.0,1.0
+0.75,Original CNN,0.9375,1.0
+0.75,Noise-Augmented CNN,1.0,1.0
+0.75,Logistic Regression,1.0,1.0
+1.0,Original CNN,0.9375,1.0
+1.0,Noise-Augmented CNN,1.0,1.0
+1.0,Logistic Regression,1.0,1.0
+1.25,Original CNN,0.9375,1.0
+1.25,Noise-Augmented CNN,1.0,1.0
+1.25,Logistic Regression,0.9375,1.0
+1.5,Original CNN,1.0,1.0
+1.5,Noise-Augmented CNN,1.0,1.0
+1.5,Logistic Regression,1.0,1.0
+2.0,Original CNN,1.0,1.0
+2.0,Noise-Augmented CNN,1.0,1.0
+2.0,Logistic Regression,0.9375,1.0

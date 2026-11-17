@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC,PR_AUC
+Original CNN,0.9375,0.8888888888888888,1.0,0.9411764705882353,1.0,1.0
+Noise-Augmented CNN,1.0,1.0,1.0,1.0,1.0,1.0
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0
